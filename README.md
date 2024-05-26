@@ -32,31 +32,29 @@ Veteriner Yönetim Sistemi, veteriner kliniklerinin günlük işlerini düzenlem
 - **vaccines**
 ![vaccines](https://github.com/Snmzgrkn/veterinary/assets/56911478/41a7f980-60a6-4f95-90cf-dd416c52d5ed)
 
-<br>
+
 - **doctors**
 ![doctors](https://github.com/Snmzgrkn/veterinary/assets/56911478/1f589cfb-3de4-42bc-bf42-49a9b0f39a24)
 
-<br>
+
 
 - **customers**
 ![customers](https://github.com/Snmzgrkn/veterinary/assets/56911478/ea0bc581-23cb-469b-9c97-012df114e48d)
 
-<br>
+
 
 - **available_dates**
 ![available_dates](https://github.com/Snmzgrkn/veterinary/assets/56911478/c4de3d49-6984-4507-b4b5-7e0cd1124d5e)
 
-<br>
 
 - **appointments**
 ![appointments](https://github.com/Snmzgrkn/veterinary/assets/56911478/7534890a-d621-42db-865e-d01b84e0af63)
 
-<br>
+
 
 -**animals**
 ![animals](https://github.com/Snmzgrkn/veterinary/assets/56911478/ab668ef2-2405-4846-870f-42c614e63112)
 
-<br>
 
 ## API Kullanımı
 
