@@ -25,10 +25,16 @@ Veteriner Yönetim Sistemi, veteriner kliniklerinin günlük işlerini düzenlem
 
 ## Ekran Görüntüleri ve UML Diyagramları
 
+![UML diagrams](https://github.com/Snmzgrkn/veterinary/assets/56911478/54fc553f-9bf9-4518-915e-db02bc6ce826)
 
 
 ## Veri Tabanı Tabloları
-
+![vaccines](https://github.com/Snmzgrkn/veterinary/assets/56911478/41a7f980-60a6-4f95-90cf-dd416c52d5ed)
+![doctors](https://github.com/Snmzgrkn/veterinary/assets/56911478/7920df63-62ec-4119-8c26-8d3c4619d197)
+![customers](https://github.com/Snmzgrkn/veterinary/assets/56911478/ea0bc581-23cb-469b-9c97-012df114e48d)
+![available_dates](https://github.com/Snmzgrkn/veterinary/assets/56911478/c4de3d49-6984-4507-b4b5-7e0cd1124d5e)
+![appointments](https://github.com/Snmzgrkn/veterinary/assets/56911478/7534890a-d621-42db-865e-d01b84e0af63)
+![animals](https://github.com/Snmzgrkn/veterinary/assets/56911478/ab668ef2-2405-4846-870f-42c614e63112)
 
 
 ## API Kullanımı
